@@ -2,7 +2,7 @@
 
 A simple test of **Android** using **Appium** and **Cucumber**.
 
-## Necessary to run this project
+## Required to run this project
 
 - *Ruby (used version 2.3.1)*
 - *Cucumber (used version 3.1.0)*
@@ -16,14 +16,13 @@ A simple test of **Android** using **Appium** and **Cucumber**.
 ## Step by step to run this project
 
 1. Make sure you have been installed all components to run this project and all enviroment variables has been configured.
-2. Don't forget to install dependecies to this project, go to **CucumberTestAndroidWithAppium/** directory and type in your **terminal** :
+2. Don't forget to install dependecies to this project, go to directory **CucumberTestAndroidWithAppium/** directory and type in your **terminal** :
 ```
 
 $ bundle install
 
 ```
-3. Start your **Appium Server**.
-Type in your terminal :  
+3. Start your **Appium Server**, type in your **terminal** :  
 ```
 
 $ appium
@@ -42,7 +41,7 @@ $ emulator -avd 'YOUR-DEVICE-NAME'
  $ cucumber
 
  ```
-6. Everything will be happen looks like magic!
+6. Everything will be run, looks like magic!
 
 ![](https://media.giphy.com/media/QmX0o7tULcQg/giphy.gif)
 
